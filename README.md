@@ -13,3 +13,7 @@
     </tr>
   </tbody>
 </table>
+
+## Hi, I'm HzzMonet 👋
+
+I'm an educator from Vietnam who enjoys exploring technology and learning by building. I'm especially interested in Android and open source, and I like turning ideas into practical tools and clear guides.
