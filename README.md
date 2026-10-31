@@ -12,7 +12,7 @@
       </td>
       <td width="65%" valign="middle">
         <h2>Hi, I'm HzzMonet 👋</h2>
-        <p>I'm an educator from Vietnam who enjoys learning by building. I like breaking complicated ideas into clear steps and making technical topics easier for others to explore.</p>
+        <p>I'm a student from Vietnam who enjoys learning by building. I like breaking complicated ideas into clear steps and making technical topics easier for others to explore.</p>
         <p>My interests include Android internals, system customization, and open-source software. Through the Kaorios ecosystem, I work on practical tools, framework integrations, and documentation. I enjoy testing ideas, learning from feedback, and sharing what I discover with the community.</p>
       </td>
     </tr>
